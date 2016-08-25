@@ -1,0 +1,24 @@
+/* This file is used to style personal portfolio page - a project of FCC */
+.bg-color-dodgerblue {
+    background-color: dodgerblue;
+}
+
+body {
+    padding-top: 65px;
+    background-color: lightgrey;
+}
+
+.image-headline {
+    text-align: center;
+    margin: 50px auto;
+}
+.image-headline a {
+    margin: 0px 20px;
+    display: inline-block;
+    text-decoration: none;
+    color: #000000;
+}
+
+.bigger-font-size {
+    font-size: 20px;
+}
