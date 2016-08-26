@@ -36,3 +36,8 @@ body {
     display: inline;
     margin: 10px;
 }
+
+.row-bg-color {
+    background-color: #eeeeee;
+    border-radius: 10px;
+}
